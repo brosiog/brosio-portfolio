@@ -1,0 +1,27 @@
+site_name: Brosio's Homelab
+site_description: Documentation for Brosio's homelab, services, and experiments.
+
+theme:
+  name: mkdocs
+  highlightjs: true
+  navigation_depth: 3
+
+nav:
+  - Home: index.md
+  - Architecture: architecture/index.md
+  - Environment: environment/index.md
+  - Services:
+      - AI: ai/index.md
+      - Gaming: gaming/index.md
+      - File Management: file-management/index.md
+      - Monitoring: monitoring/index.md
+      - Networking: networking/index.md
+  - Hardware: hardware/index.md
+  - Lessons Learned: lessons-learned/index.md
+  - About: about/index.md
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - attr_list
