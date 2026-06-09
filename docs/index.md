@@ -1,7 +1,7 @@
 # Brosio's Homelab
 
 Welcome to my homelab documentation. This site covers the infrastructure,
-services, experiments, and lessons behind my home lab.
+services, experiments, and lessons learned while buildling and maintaining my home lab.
 
 <p class="status-note">
   <strong>Project status:</strong> Anything marked WIP is planned or under
@@ -44,7 +44,7 @@ services, experiments, and lessons behind my home lab.
   <a class="page-card" href="monitoring/">
     <span class="card-icon">📈</span>
     <strong>Monitoring</strong>
-    <span>Security logging, monitoring, and visibility across the lab.</span>
+    <span>Security logging, monitoring, and visibility.</span>
   </a>
 
   <a class="page-card" href="networking/">
@@ -56,7 +56,7 @@ services, experiments, and lessons behind my home lab.
   <a class="page-card" href="hardware/">
     <span class="card-icon">💻</span>
     <strong>Hardware</strong>
-    <span>The compact Lenovo ThinkCentre at the center of the setup.</span>
+    <span>The compact Lenovo ThinkCentre at the center of my homelab.</span>
   </a>
 
   <a class="page-card" href="lessons-learned/">
